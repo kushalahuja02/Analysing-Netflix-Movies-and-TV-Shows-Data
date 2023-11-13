@@ -1,5 +1,5 @@
 # Analysing-Netflix-Movies-and-TV-Shows-Data
-# Netflix Movies and TV Shows Analysis - Version 1.0.1
+# Netflix Movies and TV Shows Analysis 
 
 ## Description
 This project provides a comprehensive analysis of the Netflix dataset, which includes listings of all movies and TV shows available on Netflix as of mid-2021. The dataset covers various details such as cast, directors, ratings, release year, duration, etc. The primary goal is to extract meaningful insights that can inform content strategy, audience preferences, and market trends in the streaming service industry.
